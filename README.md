@@ -1,4 +1,4 @@
 # simple-phone-catalog-react
 Simple phone catalog app developed with react with a simple node api.
 The application is served with Node.
-Down load or clone repository, install dependencies and run with node app.js from the root of the application.
+Down load or clone repository, install dependencies and run with 'node app.js' from the root of the application.
