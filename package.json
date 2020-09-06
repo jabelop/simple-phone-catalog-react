@@ -1,0 +1,19 @@
+{
+  "name": "phone_catalog",
+  "version": "1.0.0",
+  "description": "simple React phone catalog with express api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phone",
+    "catalog",
+    "React"
+  ],
+  "author": "Julio Abejar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
